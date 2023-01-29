@@ -1,0 +1,2 @@
+#rabbitmqexemple
+# rabbitmqexemple
